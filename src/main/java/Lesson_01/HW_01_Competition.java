@@ -18,13 +18,6 @@ package Lesson_01;
     *   -   метод, который будет просить команду пройти всю полосу.
  */
 
-//public static void main(String[] args) {
-//Course c = new Course(...); // Создаем полосу препятствий
-//Team team = new Team(...); // Создаем команду
-//c.doIt(team); // Просим команду пройти полосу
-//team.showResults(); // Показываем результаты
-//}
-
 public class HW_01_Competition {
 
     public static void main(String[] args) {
